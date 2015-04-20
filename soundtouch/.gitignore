@@ -1,0 +1,16 @@
+config.log
+config.status
+config/m4/*.m4
+autom4te.cache/
+*.o
+*.so
+config/
+bin/
+.deps/
+obj/
+source/SoundTouchDLL/
+Makefile.in
+aclocal.m4
+configure
+libtool
+soundtouch.pc

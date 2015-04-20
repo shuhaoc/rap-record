@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Record</string>
+
+    <string name="record_cap">REC</string>
+    <string name="tempo_cap">TEMPO</string>
+    <string name="stop_cap">STOP</string>
+    <string name="play_cap">PLAY</string>
+
+    <string name="prompt">press REC to record</string>
+    <string name="recording">recording</string>
+    <string name="complete">complete</string>
+    <string name="action_settings">Settings</string>
+</resources>
